@@ -2,12 +2,12 @@
   ARDA SELIM — GitHub Profile README
 
   SETUP:
-  1. Replace ardaselimcakmak-dotcom with your GitHub username (all occurrences).
+  1. Replace iardaselimxx with your GitHub username (all occurrences).
   2. Replace 1259152315068190773 with your Discord numeric user ID.
   3. Replace YOUR_DISCORD_USERNAME with your Discord username.
   4. Replace NOXIR-REPO, CHRONOS-REPO and CLASSSYNC-REPO with real public repository names.
      If a project is not public yet, remove its repository link until you publish it.
-  5. Save this file as README.md inside a public repository named exactly ardaselimcakmak-dotcom.
+  5. Save this file as README.md inside a public repository named exactly iardaselimxx.
 -->
 
 <div align="center">
@@ -16,13 +16,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=750&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Turning+Ideas+Into+Digital+Experiences.;Design.+Code.+Animate.;Creative+Web+Development+%7C+UI%2FUX;Always+Learning.+Always+Creating." alt="Animated introduction"/>
 
-<a href="https://github.com/ardaselimcakmak-dotcom">
+<a href="https://github.com/iardaselimxx">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://discord.com/users/1259152315068190773">
   <img src="https://img.shields.io/badge/Discord-Connect%20With%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ardaselimcakmak-dotcom&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=iardaselimxx&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/>
 
@@ -174,7 +174,7 @@ A premium perfume website concept with a bold visual identity and immersive fron
 
 `Next.js` `React` `GSAP`
 
-[**Repository →**](https://github.com/ardaselimcakmak-dotcom/NOXIR-REPO)
+[**Repository →**](https://github.com/iardaselimxx/NOXIR-REPO)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -187,7 +187,7 @@ A cinematic luxury watch website concept focused on product storytelling and mec
 
 `Web` `Motion` `UI/UX`
 
-[**Repository →**](https://github.com/ardaselimcakmak-dotcom/CHRONOS-REPO)
+[**Repository →**](https://github.com/iardaselimxx/CHRONOS-REPO)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -200,7 +200,7 @@ An educational technology concept for teacher-controlled PDF synchronization and
 
 `Education` `Web App` `Local Network`
 
-[**Repository →**](https://github.com/ardaselimcakmak-dotcom/CLASSSYNC-REPO)
+[**Repository →**](https://github.com/iardaselimxx/CLASSSYNC-REPO)
 
 </td>
 </tr>
@@ -214,12 +214,12 @@ An educational technology concept for teacher-controlled PDF synchronization and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardaselimcakmak-dotcom&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=22D3EE&text_color=CBD5E1&icon_color=818CF8" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaselimcakmak-dotcom&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iardaselimxx&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=22D3EE&text_color=CBD5E1&icon_color=818CF8" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iardaselimxx&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ardaselimcakmak-dotcom&hide_border=true&background=050816&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=iardaselimxx&hide_border=true&background=050816&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardaselimcakmak-dotcom&bg_color=050816&color=CBD5E1&line=22D3EE&point=818CF8&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iardaselimxx&bg_color=050816&color=CBD5E1&line=22D3EE&point=818CF8&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
@@ -249,7 +249,7 @@ I enjoy exchanging ideas about web development, design, technology, and creative
 <a href="https://discord.com/users/1259152315068190773">
   <img src="https://img.shields.io/badge/VISIT%20MY%20DISCORD%20PROFILE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Visit Discord profile"/>
 </a>
-<a href="https://github.com/ardaselimcakmak-dotcom">
+<a href="https://github.com/iardaselimxx">
   <img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
@@ -265,7 +265,7 @@ Every project is an opportunity to explore a new idea, learn something valuable,
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=An+idea+is+just+the+beginning.;Let's+turn+concepts+into+experiences.;Thanks+for+visiting+my+profile!" alt="Closing animated message"/>
 
-<a href="https://github.com/ardaselimcakmak-dotcom?tab=repositories">
+<a href="https://github.com/iardaselimxx?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-22D3EE?style=for-the-badge&logo=github&logoColor=050816" alt="Explore repositories"/>
 </a>
 
